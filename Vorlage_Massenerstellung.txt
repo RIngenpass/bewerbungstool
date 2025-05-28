@@ -1,0 +1,9 @@
+Firma=Testfirma GMBH
+zuHaenden=Herr Tester
+Strasse=Teststr 1
+PLZ=47554 Musterstadt
+
+Title=Bewerbung zum Fachinformatiker in Anwendungsentwicklung \n
+Bewerbungstex1=
+Bewerbungstex2=
+Bewerbungstex4=Ich freue mich sehr, wenn ich Ihr Team in dieser Zeit tatkräftig unterstützen darf. Über eine Einladung zum persönlichen Gespräch freue ich mich sehr. Gern überzeuge ich Sie in einem persönlichen Gespräch von meiner Motivation.\n
