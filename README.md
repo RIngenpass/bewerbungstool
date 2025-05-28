@@ -1,7 +1,7 @@
 # bewerbungstool
 Bewerbungstool
 
- 
+ <img src="Screenshot 2025-05-28 100248.png" alt="Projektlogo" width="300">
 
 Benutzerdokumentation - Bewerbungstool
 1. Einleitung
